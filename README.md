@@ -22,17 +22,17 @@
 
 <hr>
 
-<div>
-    <span style="font-family:Comic Sans MS"> 🎯 The dataset you're referring to, encompassing Australian weather data from 2008 to 2017, includes additional columns such as 'RainToday,' with the primary target of interest being the 'RainTomorrow' column.</span>
-</div>
 
-<div>
-    <span style="font-family:Comic Sans MS"> 🎯 This dataset is valuable for predictive analysis, particularly in understanding and forecasting whether it will rain the following day based on various weather attributes and conditions recorded over the specified period.</span>
-</div>
+<span style="font-family:Comic Sans MS"> 🎯 The dataset you're referring to, encompassing Australian weather data from 2008 to 2017, includes additional columns such as 'RainToday,' with the primary target of interest being the 'RainTomorrow' column.</span>
 
-<div>
-    <span style="font-family:Comic Sans MS"> 🎯 By utilizing this dataset, machine learning models can be trained to discern patterns, relationships, and dependencies between various weather parameters (like temperature, humidity, wind speed, atmospheric pressure, etc.), the occurrence of rain on a particular day ('RainToday'), and whether rain will persist to the next day ('RainTomorrow').</span>
-</div>
+
+
+<span style="font-family:Comic Sans MS"> 🎯 This dataset is valuable for predictive analysis, particularly in understanding and forecasting whether it will rain the following day based on various weather attributes and conditions recorded over the specified period.</span>
+
+
+
+<span style="font-family:Comic Sans MS"> 🎯 By utilizing this dataset, machine learning models can be trained to discern patterns, relationships, and dependencies between various weather parameters (like temperature, humidity, wind speed, atmospheric pressure, etc.), the occurrence of rain on a particular day ('RainToday'), and whether rain will persist to the next day ('RainTomorrow').</span>
+
 <hr>
 
 
